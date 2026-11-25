@@ -1,0 +1,20 @@
+2026-11-18 13:00:23,342 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-11-18 13:00:23,351 INFO o.a.j.JMeter: Loading user properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/user.properties
+2026-11-18 13:00:23,351 INFO o.a.j.JMeter: Loading system properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/system.properties
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: Version 5.6.3
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: java.version=21.0.13.1
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: os.name=Mac OS X
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: os.arch=aarch64
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: os.version=15.8.1
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-11-18 13:00:23,353 INFO o.a.j.JMeter: java.awt.headless=null
+2026-11-18 13:00:23,354 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-11-18 13:00:23,354 INFO o.a.j.JMeter: Available Processors =11
+2026-11-18 13:00:23,357 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-11-18 13:00:23,357 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-11-18 13:00:23,357 INFO o.a.j.JMeter: JMeterHome=/opt/homebrew/Cellar/jmeter/5.6.3/libexec
+2026-11-18 13:00:23,357 INFO o.a.j.JMeter: user.dir  =/Users/breaze/Downloads/estudiantes-ágiles
+2026-11-18 13:00:23,358 INFO o.a.j.JMeter: PWD       =/Users/breaze/Downloads/estudiantes-ágiles
+2026-11-18 13:00:23,359 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: Simons-MacBook-Pro.local FullName: localhost
