@@ -12,4 +12,4 @@ CREATE TABLE IF NOT EXISTS estudiantes (
     FOREIGN KEY (curso_id) REFERENCES cursos(id)
     );
 
-inser
+INSERT INTO cursos (nombre) VALUES ('Scrum'), ('Kanban');
