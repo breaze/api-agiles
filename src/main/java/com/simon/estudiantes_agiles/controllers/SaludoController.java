@@ -12,4 +12,9 @@ public class SaludoController {
     public String saludar(@PathVariable String nombre){
         return "Hola "+nombre;
     }
+
+    @GetMapping
+    public String saludar(){
+        return "Hola mundo";
+    }
 }
